@@ -2,8 +2,13 @@
 	"name": "login",
 	"elements": [
 		{
-			"type": "label",
-			"value": "zzzzzzzzzz"
+			"type": "horizontalLayout",
+			"elements": [
+				{
+					"type": "label",
+					"value": "zzzzzzzzzz"
+				}
+			]
 		}
 	]
 }
