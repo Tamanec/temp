@@ -1,3 +1,9 @@
 {
-	"name": "login"
+	"name": "login",
+	"elements": [
+		{
+			"type": "label",
+			"value": "zzzzzzzzzz"
+		}
+	]
 }
